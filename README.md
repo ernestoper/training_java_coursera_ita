@@ -1,4 +1,4 @@
-# training_java_coursers_ita
+# training_java_coursera_ita
 # IMC - CALCULATOR
 ## _Project created in eclipse_
 
