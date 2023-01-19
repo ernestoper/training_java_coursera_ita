@@ -1,9 +1,9 @@
 # training_java_coursera_ita
-# IMC - CALCULATOR
+
 ## _Project created in eclipse_
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eclipse-Luna-Logo.svg/640px-Eclipse-Luna-Logo.svg.png)
-
+# IMC - CALCULATOR
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
 IMC calculation, first week Object Oriented with Java
